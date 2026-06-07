@@ -249,12 +249,7 @@ h1 {
     margin-bottom: 28px;
 }
 
-.hero-text {
-    max-width: 500px;
-    color: rgba(245, 245, 245, 0.72);
-    font-size: 1rem;
-    margin-bottom: 34px;
-}
+
 
 .hero-actions {
     display: flex;
@@ -1092,11 +1087,6 @@ footer {
         line-height: 1.05;
     }
 
-    .hero-text {
-        display: block;
-        max-width: 560px;
-        margin-inline: auto;
-    }
 
     .hero-grid {
         grid-template-columns: 1fr;
@@ -1201,10 +1191,6 @@ footer {
         font-size: clamp(2.3rem, 11vw, 3.2rem);
     }
 
-    .hero-text {
-        font-size: 0.92rem;
-        margin-bottom: 28px;
-    }
 
     .hero-break {
         margin-top: 18px;
