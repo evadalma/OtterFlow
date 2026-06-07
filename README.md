@@ -85,11 +85,11 @@ como representación de las distintas fases del método OtterFlow.
 
 ### Método OtterFlow
 
-_(Añadir captura)_
+![Método OtterFlow](./method-otterflow.png)
 
 ### Proyectos
 
-_(Añadir captura)_
+![Proyectos OtterFlow](./projects-otterflow.png)
 
 ## 👩‍💻 Autora
 
