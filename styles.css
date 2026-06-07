@@ -594,9 +594,12 @@ section {
     margin-bottom: 20px;
 }
 
+.statement-content p span {
+    display: inline;
+}
 
 .statement-otter {
-    flex: 1;
+    flex: 0 0 42%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -613,6 +616,8 @@ section {
 .guide-otter {
     max-width: 420px;
     width: 100%;
+    height: auto;
+    object-fit: contain;
     opacity: .9;
     transform: translateX(60px);
 }
@@ -1103,12 +1108,25 @@ footer {
         text-align: center;
     }
 
+    .statement-otter {
+        flex: none;
+        width: 100%;
+    }
+
     .statement-content h2 {
         font-size: 3rem;
     }
 
+    .statement-content p span {
+        display: block;
+        margin-top: 0.25rem;
+    }
+
     .guide-otter {
-        max-width: 380px;
+        max-width: 300px;
+        width: min(100%, 300px);
+        height: auto;
+        object-fit: contain;
         transform: none;
     }
 
