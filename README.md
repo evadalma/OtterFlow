@@ -81,7 +81,7 @@ como representación de las distintas fases del método OtterFlow.
 
 ### Home
 
-_(Añadir captura principal)_
+![Hero OtterFlow](./hero-otterflow.png)
 
 ### Método OtterFlow
 
